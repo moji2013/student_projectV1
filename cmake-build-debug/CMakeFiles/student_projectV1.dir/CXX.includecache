@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/empty.cpp
+empty.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/empty.h
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/empty.h
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/file_missing.cpp
+file_missing.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/file_missing.h
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/file_missing.h
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/friend_global_funcs.h
+list.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/list.h
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/list.cpp
+list.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/list.h
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/list.h
+fstream
+-
+
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/main.cpp
+iostream
+-
+friend_global_funcs.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/friend_global_funcs.h
+file_missing.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/file_missing.h
+empty.h
+/home/solo-l-ub/Desktop/working/cpp/streams/student_projectV1/empty.h
+

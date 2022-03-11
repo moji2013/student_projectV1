@@ -1,0 +1,2 @@
+chair	3	3
+laptop	2	2

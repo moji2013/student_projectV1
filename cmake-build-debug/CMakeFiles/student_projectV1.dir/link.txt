@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/student_projectV1.dir/main.cpp.o CMakeFiles/student_projectV1.dir/list.cpp.o CMakeFiles/student_projectV1.dir/empty.cpp.o CMakeFiles/student_projectV1.dir/file_missing.cpp.o -o student_projectV1 
